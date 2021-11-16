@@ -2,4 +2,4 @@
 Created with CodeSandbox
 
 Udemy React講座 「React入門編」 authorじゃけぇ 
-・React 基礎編
+・セクション6-React基礎編
